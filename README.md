@@ -1,28 +1,26 @@
-# gamaAcademy
-
-**<h1>- SOLAR ESTOFADOS -</h1>**
+#**- SOLAR ESTOFADOS -**
 
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
 * Uma página institucional
 * Totalmente navegável
-* Possibilidade de filtrar por departamento, seção ou categorai de produto
+* Possibilidade de filtrar por departamento, seção ou categoria de produto
 
-**_<h3>1° Sprint</h3>_**
+###**_1° Sprint_**
 
-* **<6>Objetivos e estimativa de entrega</6>**
+* **<h6>Objetivos e estimativa de entrega</h6>**
 
 **Início 15/07/2021, témino 16/07/2021**
 
-- [ ] Criação do repositório do Github criado
-- [ ] Criação das estórias e agrupamento das estórias em sprints
-- [ ] Criação do HTML base do projeto
+- [x] Criação do repositório do Github
+- [x] Criação das estórias e agrupamento das estórias em sprints
+- [x] Criação do HTML base do projeto
 
 **_<h3>2° Sprint</h3>_**
 
-* **<6>Objetivos e estimativa de entrega</6>**
+* **<h6>Objetivos e estimativa de entrega</h6>**
 
-**<h6>Início 17/07/2021, témino 18/07/2021</h6>**
+**Início 17/07/2021, témino 18/07/2021**
 
 **Criação da página principal**
 
@@ -33,9 +31,9 @@
 
 **_<h3>3° Sprint</h3>_**
 
-* **<6>Objetivos e estimativa de entrega</6>**
+* **<h6>Objetivos e estimativa de entrega</h6>**
 
-**<h6>Início 19/07/2021, témino 20/07/2021</h6>**
+**Início 19/07/2021, témino 20/07/2021**
 
 **Criação do catálogo de produtos**
 
@@ -46,9 +44,9 @@
 
 **_<h3>4° Sprint</h3>_**
 
-* **<6>Objetivos e estimativa de entrega</6>**
+* **<h6>Objetivos e estimativa de entrega</h6>**
 
-**<h6>Início 21/07/2021, témino 23/07/2021</h6>**
+**Início 21/07/2021, témino 23/07/2021**
 
 **Criação das páginas de detalhes e estilizar**
 
