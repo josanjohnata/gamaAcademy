@@ -6,7 +6,7 @@
 * Totalmente navegável
 * Possibilidade de filtrar por departamento, seção ou categoria de produto
 
-**_1° Sprint_**
+**_<h3>1° Sprint</3>_**
 
 * **<h6>Objetivos e estimativa de entrega</h6>**
 
