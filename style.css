@@ -4,11 +4,15 @@
   box-sizing: border-box;
 }
 
+.logo-bar {
+  cursor: pointer;
+}
+
 .navbar-brand {
   font-family: 'Lobster', cursive;
-  font-size: 2rem;
   font-weight:bold;
   color: black;
+  padding: 0 10px
 }
 
 .navbar-brand:hover {
@@ -34,7 +38,7 @@
   border-radius: 40px;
   margin-right: -35px;
   outline: none;
-  border: 2px solid rgb(230, 21, 6);
+  border: 2px solid #fc9c73;
 }
 
 .btn0 {
@@ -43,7 +47,33 @@
   outline: none;
   border: none;
   border-radius: 40px;
-  background: rgb(230, 21, 6);
+  background: #fc9c73;
+  color: white;
+  font-weight: 700;
+}
+
+.main {
+  background: url(./featuredImages/header-img.jpg)no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: 50% 50%;
+  width: 100%;
+}
+
+.main h1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color:#ebe7e7;
+  text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+.btn1 {
+  height: 40px;
+  width: 40%;
+  outline: none;
+  border: none;
+  border-radius: 40px;
+  background: #fc9c73;
   color: white;
   font-weight: 700;
 }
