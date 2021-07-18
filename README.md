@@ -40,7 +40,7 @@
 - [ ] Incluir fotos
 - [ ] Descrição dos produtos
 - [ ] Botão para detalhes do produto
-- [ ] Campo de pesquisa de produtos
+- [x] Campo de pesquisa de produtos
 
 **_<h3>4° Sprint</h3>_**
 
