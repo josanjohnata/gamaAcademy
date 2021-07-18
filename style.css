@@ -3,3 +3,47 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  font-weight:bold;
+  color: black;
+}
+
+.navbar-brand:hover {
+  color: rgb(83, 73, 73);
+}
+
+.nav-link {
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.search {
+  height: 40;
+  width: 80%;
+  border-radius: 40px;
+  margin-right: -35px;
+  outline: none;
+  border: 2px solid rgb(230, 21, 6);
+}
+
+.btn0 {
+  height: 40px;
+  width: 40%;
+  outline: none;
+  border: none;
+  border-radius: 40px;
+  background: rgb(230, 21, 6);
+  color: white;
+  font-weight: 700;
+}
