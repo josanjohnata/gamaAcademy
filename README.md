@@ -1,4 +1,4 @@
-#**- SOLAR ESTOFADOS -**
+**- SOLAR ESTOFADOS -**
 
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
@@ -6,7 +6,7 @@
 * Totalmente navegável
 * Possibilidade de filtrar por departamento, seção ou categoria de produto
 
-###**_1° Sprint_**
+**_1° Sprint_**
 
 * **<h6>Objetivos e estimativa de entrega</h6>**
 
