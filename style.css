@@ -19,17 +19,18 @@
   color: rgb(83, 73, 73);
 }
 
-.nav-link {
+.nav-link{
   margin-right: 10px;
   margin-left: 10px;
   font-family: 'Rubik', sans-serif;
+  color:black;
   font-weight: bold;
   text-transform: uppercase;
   text-decoration: none;
 }
 
 .nav-link:hover {
-  color: black;
+  color: rgb(83, 73, 73);
 }
 
 .search {
