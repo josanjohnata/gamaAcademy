@@ -1,4 +1,4 @@
-#**- SOLAR ESTOFADOS -**
+**- SOLAR ESTOFADOS -**
 
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
@@ -6,7 +6,7 @@
 * Totalmente navegável
 * Possibilidade de filtrar por departamento, seção ou categoria de produto
 
-###**_1° Sprint_**
+**_<h3>1° Sprint</h3>_**
 
 * **<h6>Objetivos e estimativa de entrega</h6>**
 
@@ -24,8 +24,8 @@
 
 **Criação da página principal**
 
-- [ ] Criação do escopo da página principal
-- [ ] Criação do Header com bontões de navegação
+- [x] Criação do escopo da página principal
+- [x] Criação do Header com bontões de navegação
 - [ ] Criação do Quem Somos
 - [ ] Criação do Termos e Serviços
 
@@ -40,7 +40,7 @@
 - [ ] Incluir fotos
 - [ ] Descrição dos produtos
 - [ ] Botão para detalhes do produto
-- [ ] Campo de pesquisa de produtos
+- [x] Campo de pesquisa de produtos
 
 **_<h3>4° Sprint</h3>_**
 
