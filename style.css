@@ -78,3 +78,9 @@
   color: white;
   font-weight: 700;
 }
+
+.card:hover {
+  box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -2px -1px 25px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
+}
