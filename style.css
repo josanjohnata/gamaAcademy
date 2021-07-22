@@ -85,3 +85,7 @@
   -moz-box-shadow: -2px -1px 25px -4px rgba(0, 0, 0, 0.75);
   transition: 0.5s;
 }
+
+.card1 {
+  padding-top: 20px;
+}
