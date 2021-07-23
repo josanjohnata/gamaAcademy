@@ -55,4 +55,4 @@
 - [x] Botão para voltar para a página principal
 - [x] Aplicar estilo
 - [x] Aplica responsividade
-- [ ] Subir o site na web
+- [x] Subir o site na web
