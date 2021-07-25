@@ -5,6 +5,12 @@
 
 ![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/1.png)
 ![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/2.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/3.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/4.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/5.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/6.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/7.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/8.png)
 
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
