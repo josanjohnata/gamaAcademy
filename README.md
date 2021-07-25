@@ -1,5 +1,10 @@
 **- SOLAR ESTOFADOS -**
 
+<h5>Link da pagina:</h5>https://josanjohnata.github.io/gamaAcademy/
+<hr/>
+
+<img src="./" style=" width:100px ; height:100px " />
+
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
 * Uma página institucional
@@ -26,8 +31,8 @@
 
 - [x] Criação do escopo da página principal
 - [x] Criação do Header com bontões de navegação
-- [ ] Criação do Quem Somos
-- [ ] Criação do Termos e Serviços
+- [x] Criação do Quem Somos
+- [x] Criação do Termos e Serviços
 
 **_<h3>3° Sprint</h3>_**
 
@@ -37,9 +42,9 @@
 
 **Criação do catálogo de produtos**
 
-- [ ] Incluir fotos
-- [ ] Descrição dos produtos
-- [ ] Botão para detalhes do produto
+- [x] Incluir fotos
+- [x] Descrição dos produtos
+- [x] Botão para detalhes do produto
 - [x] Campo de pesquisa de produtos
 
 **_<h3>4° Sprint</h3>_**
@@ -50,9 +55,9 @@
 
 **Criação das páginas de detalhes e estilizar**
 
-- [ ] Incluir fotos de vários angulos do produto
-- [ ] Descrição detalhada dos produtos
-- [ ] Botão para voltar para a página principal
-- [ ] Aplicar estilo
-- [ ] Aplica responsividade
-- [ ] Subir o site na web
+- [x] Incluir fotos de vários angulos do produto
+- [x] Descrição detalhada dos produtos
+- [x] Botão para voltar para a página principal
+- [x] Aplicar estilo
+- [x] Aplica responsividade
+- [x] Subir o site na web
