@@ -4,6 +4,7 @@
 <hr/>
 
 ![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/1.png)
+![alt text](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/2.png)
 
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
