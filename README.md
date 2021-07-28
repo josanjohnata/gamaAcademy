@@ -31,6 +31,7 @@
 
 **Criação da página principal**
 
+
 - [x] Criação do escopo da página principal
 - [x] Criação do Header com bontões de navegação
 - [x] Criação do Quem Somos
