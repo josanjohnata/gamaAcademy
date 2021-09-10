@@ -3,10 +3,6 @@
 <h5>Link da pagina:</h5>https://josanjohnata.github.io/gamaAcademy/
 <hr/>
 
-![alt text width="25%"](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/1.png)
-![alt text width="25%"](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/4.png)
-![alt text width="25%"](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/6.png)
-![alt text width="25%"](https://github.com/josanjohnata/gamaAcademy/blob/challengeStore/featuredImages/7.png)
 * Uma vitrine virtual de produtos
 * Uma página com detalhes de um determinado produto
 * Uma página institucional
